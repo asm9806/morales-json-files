@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Andrea Morales",
+		"position": "Instructor I",
+		"subjects": {
+			"BSInfoTech": ["ITRACKB1", "ITRACKB4", "ITP322" ],
+			"BSIS": ["IS1441", "ISEL422"]
+		}
+	},
+	{
+		"name": "Erickson Salazar",
+		"position": "Instructor I",
+		"subjects": {
+			"BSInfoTech": ["ITRACKA2", "ITRACKC2", "ITP931" ],
+			"BSIS": ["IS831", "IS1131"]
+		}
+	},
+	{
+		"name": "Arejay Tabirara",
+		"position": "Instructor I",
+		"subjects": {
+			"BSInfoTech": ["ITP731", "ITP831", "CC104" ],
+			"BSIS": ["CC105", "IS1231"]
+		}
+	}
+]

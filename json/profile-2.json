@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Gemma Acedo",
+		"position": "Assistant Professor V",
+		"subjects": {
+			"BSInfoTech": ["CAP102", "ITP1031", "CC101" ],
+			"BSIS": ["CC101", "CC102"]
+		}
+	},
+	
+	{
+		"name": "Belen Tapado",
+		"position": "Assistant Professor V",
+		"subjects": {
+			"BSInfoTech": ["CAP102", "ITP1031", "CC101"],
+			"BSIS": ["CAP102", "IS731"]
+		}
+	},
+	
+	{
+		"name": "Ma. Emmie Delluza",
+		"position": "Assistant Professor V",
+		"subjects": {
+			"BSInfoTech": ["ITRACKB1", "ITP931"],
+			"BSIS": ["CAP102", "IS731", "ISEL1041"]
+		}
+	}
+]

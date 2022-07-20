@@ -1,0 +1,26 @@
+[
+	{
+		"name": "John Gregory Bola",
+		"position": "Instructor I",
+		"subjects": {
+			"BSInfoTech": ["ITP731", "ITP831", "ITRACKB4" ],
+			"BSIS": ["IS1441", "ISEL422"]
+		}
+	},
+	{
+		"name": "Janette Vargas-Lucre",
+		"position": "Assistant Professor IV",
+		"subjects": {
+			"BSInfoTech": ["CC101", "CC102" ],
+			"BSIS": ["IS1031", "IS1131", "CC101"]
+		}
+	},
+	{
+		"name": "Abigail T. Delluza",
+		"position": "Instructor I",
+		"subjects": {
+			"BSInfoTech": ["ITP931", "ITRACKB2", "CC102" ],
+			"BSIS": ["IS321", "CC104"]
+		}
+	}
+]
